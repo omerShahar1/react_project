@@ -43,7 +43,7 @@ const LoginPage = () =>
               className="form-control"
             />
           </div>
-          <button type="submit" className="btn btn-primary">Login</button>
+          <button type="submit" className="btn btn-primary">Sign in</button>
         </form>
       </div>
       <div className="signup-form-container">
